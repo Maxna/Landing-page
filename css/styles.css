@@ -2,21 +2,26 @@ h2 {
   text-transform: uppercase;
 }
 
-.delisted p ul {
-  list-style: none;
+.delisted li{
+  list-style-type: none;
 }
 
 span {
 
 }
 
-#skills {
+#skill {
   text-transform: uppercase;
   text-decoration: underline;
   font-weight: bold;
   font-family: sans-serif;
+  font-style: italic;
 }
 
 .small {
-  
+
+}
+
+#intro {
+  font-size: 30px;
 }
