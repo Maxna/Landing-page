@@ -1,0 +1,22 @@
+h2 {
+  text-transform: uppercase;
+}
+
+.delisted p ul {
+  list-style: none;
+}
+
+span {
+
+}
+
+#skills {
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.small {
+  
+}
