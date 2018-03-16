@@ -5,22 +5,41 @@ h4 {
 
 h1 {
   font-family: cursive;
+  text-align: center;
 }
 
-.weekly {
-
+.lead {
+  border: 3px groove black;
+  padding: 5px;
 }
 
 h2 {
   text-transform: uppercase;
 }
 
-.bills {
+.well {
+  text-align: center;
+}
+
+.payday {
+  border: 2px dotted red;
 
 }
 
-ol {
+.row {
+  border: 2px solid white;
+}
 
+.riri {
+
+}
+
+.grids {
+  margin: 6px;
+}
+
+.about {
+  margin-top: 8px;
 }
 
 #skill {
@@ -31,8 +50,19 @@ ol {
   font-style: italic;
 }
 
-.small {
+.mac {
+  width: 70
+}
 
+.bottom {
+  margin-top: 50px
+}
+
+#grid-title {
+  font-size: 15px;
+  font-family: sans-serif;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 #intro {
@@ -44,4 +74,8 @@ ol {
 }
 
 blockquote {
+}
+
+.bottom {
+  text-align: center;
 }
