@@ -1,3 +1,15 @@
+body {
+  background: slategrey;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+.weekly {
+
+}
+
 h2 {
   text-transform: uppercase;
 }
@@ -7,7 +19,7 @@ h2 {
 }
 
 ol {
-  
+
 }
 
 #skill {
@@ -24,4 +36,11 @@ ol {
 
 #intro {
   font-size: 30px;
+}
+
+.mac {
+
+}
+
+blockquote {
 }
