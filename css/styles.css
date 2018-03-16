@@ -1,81 +1,52 @@
-h4 {
-  text-align: center;
-  text-decoration: underline;
-}
-
 h1 {
   font-family: cursive;
   text-align: center;
 }
-
+h2 {
+  text-transform: uppercase;
+}
+h4 {
+  text-align: center;
+  text-decoration: underline;
+}
+.well {
+  text-align: center;
+}
+.img-responsive {
+  border-radius: 40px;
+  margin:auto;
+  width: 70%;
+}
+.grids {
+  margin: 6px;
+  margin-top: 40px;
+}
+.row {
+  border: 2px solid white;
+}
 .lead {
   border: 3px groove black;
   padding: 5px;
 }
-
-h2 {
-  text-transform: uppercase;
-}
-
-.well {
-  text-align: center;
-}
-
-.payday {
-  border: 2px dotted red;
-
-}
-
-.row {
-  border: 2px solid white;
-}
-
-.riri {
-
-}
-
-.grids {
-  margin: 6px;
-}
-
 .about {
   margin-top: 8px;
 }
-
-#skill {
-  text-transform: uppercase;
-  text-decoration: underline;
-  font-weight: bold;
-  font-family: sans-serif;
-  font-style: italic;
-}
-
-.mac {
-  width: 70
-}
-
 .bottom {
   margin-top: 50px
 }
-
+#intro {
+  font-size: 30px;
+}
 #grid-title {
   font-size: 15px;
   font-family: sans-serif;
   text-decoration: underline;
   font-weight: bold;
 }
-
-#intro {
-  font-size: 30px;
-}
-
-.img-responsive {
-  border-radius: 40px;
-}
-
-blockquote {
-}
-
-.bottom {
-  text-align: center;
+#skill {
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
 }
