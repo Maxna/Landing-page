@@ -1,5 +1,6 @@
-body {
-  background: slategrey;
+h4 {
+  text-align: center;
+  text-decoration: underline;
 }
 
 h1 {
@@ -38,8 +39,8 @@ ol {
   font-size: 30px;
 }
 
-.mac {
-
+.img-responsive {
+  border-radius: 40px;
 }
 
 blockquote {
