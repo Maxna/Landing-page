@@ -29,7 +29,7 @@ _Using the Atom text editor with css and bootstrap I add some creative design wo
 
 ### Link
 
-_View this page at https://github.com/Maxna/Landing-page_
+_View this page at https://maxna.github.io/Landing-page/_
 
 ### License
 
