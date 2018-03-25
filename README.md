@@ -27,6 +27,10 @@ _Contact us at Epicodus if you run into any issues._
 
 _Using the Atom text editor with css and bootstrap I add some creative design work to a simple html page._
 
+### Link
+
+_View this page at https://github.com/Maxna/Landing-page_
+
 ### License
 
 _This software is licensed under the MIT license_
